@@ -1,0 +1,160 @@
+body{
+    background: black;
+}
+.main {
+    width: 500px;
+    height: 600px;
+    margin: 100px auto;
+}
+.head {
+    background: blue;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+.eyes {
+    width: 90px;
+    margin: auto;
+    padding-top: 30px;
+}
+.eyes-in{
+    height: 50px;
+    width: 30px;
+    background-color: white;
+    border-radius: 50%;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.black-dots {
+    width: 10px;
+    height: 20px;
+    background: black;
+    margin: auto;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+}
+.white-dots {
+    background-color: white;
+    border-radius: 50%;
+    height: 6px;
+    width: 3px;
+    margin: auto;
+    position: relative;
+    top: 50%;
+}
+.nose {
+    width: 30px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.mouth {
+    height: 30px;
+    width: 50px;
+    background-color: white;
+    margin: auto;
+    border-radius: 0 0 100px 100px;
+}
+.toungue {
+    height: 20px;
+    width: 30px;
+    background-color: red;
+    border-radius: 0 0 100px 100px;
+    margin: auto;
+}
+.neck {
+    border: 1px green solid;
+    width: 80px;
+    background: red;
+    height: 20px;
+    margin: 0px auto;
+    border-radius: 10px;
+    position: relative;
+    top: -10px;
+}
+.neck-inner {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 50%;
+}
+.body {
+    height: 280px;
+    width: 220px;
+    background: blue;
+    margin: auto;
+    border-radius: 40px;
+}
+.pocket {
+    width: 100px;
+    height: 60px;
+    background-color: white;
+    margin:  40% auto;
+    border-radius: 0 0 50px 50px;
+    position: relative;
+    bottom: 60px;
+}
+.left-hand {
+    height: 50px;
+    width: 140px;
+    background-color: blue;
+    position: relative;
+    left: -120px;
+    border-radius: 30px;
+    float: left;
+}
+.left-circle {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+.right-hand {
+    height: 50px;
+    width: 140px;
+    background-color: blue;
+    position: relative;
+    left: 200px;
+    border-radius: 30px;
+
+}
+.right-circle {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: relative;
+    right: -90px;
+}
+.left-leg {
+    height: 50px;
+    width: 110px;
+    background-color: white;
+    border-radius: 50px;
+    position: relative;
+    bottom: 70px;
+}
+.leg-gap {
+    height: 80px;
+    width: 5px;
+    background-color: white;
+    margin: auto;
+    position: relative;
+    bottom: 170px;
+
+}
+.right-leg {
+    height: 50px;
+    width: 110px;
+    background-color: white;
+    border-radius: 50px;
+    position: relative;
+    bottom: 200px;
+    left: 110px;
+}
